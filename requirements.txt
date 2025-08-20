@@ -1,0 +1,6 @@
+# Core dependencies
+selenium
+
+# Optional dependencies
+# Uncomment if you need image support in tkinter GUIs
+# pillow
